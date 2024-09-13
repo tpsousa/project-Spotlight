@@ -4,9 +4,9 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 
 ## Featured Projects
 
-### [Project Name 1](https://github.com/username/project-name-1)
-- **Description:** A brief overview of what this project is about, including its purpose and any unique features.
-- **Technologies Used:** JavaScript, TypeScript, React, Node.js, etc.
+### [MCV-PROJECT](https://github.com/tpsousa/MVC-PROJECT)
+- **Description:** a simple blog system using MVC arquitecture.
+- **Technologies Used:** JavaScript, Nodejs,express js,ejs, css, etc.
 - **Key Highlights:** Major achievements, challenges overcome, and notable results.
 
 ### [Project Name 2](https://github.com/username/project-name-2)
