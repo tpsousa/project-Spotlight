@@ -1,4 +1,4 @@
-# Project Spotlight
+# Project Spotlight✨
 
 Welcome to the Project Spotlight repository! Here, I showcase some of my most exciting and significant projects that highlight my skills and expertise. Each project is a reflection of my passion for technology and problem-solving.
 
