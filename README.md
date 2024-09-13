@@ -11,7 +11,7 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 
 ### [task management tool](https://github.com/username/project-name-2)
 - **Description:** It is a task management system that uses asynchronous functions, promises,get,post,delete request
-- **Technologies Used:** JavaScript.
+- **Technologies Used:** JavaScript,html,css
 - **Key Highlights:** practiced asynchronous functions in JavaScript, error handling, and making POST, GET, and DELETE requests to the server
 
 ### [applications with datas-structs and algorithms](https://github.com/tpsousa/Algorithms-and-data-structures)
