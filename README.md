@@ -7,17 +7,17 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 ### [MCV-PROJECT](https://github.com/tpsousa/MVC-PROJECT)
 - **Description:** a simple blog system using MVC arquitecture.
 - **Technologies Used:** JavaScript, Nodejs,express js,ejs, css, etc.
-- **Key Highlights:** Major achievements, challenges overcome, and notable results.
+- **Key Highlights:** I learned the importance of adopting a design pattern. It makes the code much cleaner and more organized, resulting in easier maintenance and usability.
 
 ### [Project Name 2](https://github.com/username/project-name-2)
 - **Description:** A summary of the project's goals, functionalities, and its impact.
 - **Technologies Used:** JavaScript, TypeScript, React, Node.js, etc.
 - **Key Highlights:** Insights into the development process, significant learnings, and outcomes.
 
-### [Project Name 3](https://github.com/username/project-name-3)
-- **Description:** An outline of what this project aims to achieve, its features, and any interesting aspects.
-- **Technologies Used:** JavaScript, TypeScript, React, Node.js, etc.
-- **Key Highlights:** Challenges faced, solutions implemented, and results achieved.
+### [applications with datas-structs and algorithms](https://github.com/tpsousa/)
+- **Description:** using algorithms and data-structures to solve some problems.
+- **Technologies Used:** JavaScript,python.
+- **Key Highlights:** After learning about data structures, programming made much more sense to me. I discovered how to sort, manipulate, and optimize code structures, and, most importantly, I learned how to solve problems in a more intelligent way.
 
 ## Explore More
 
