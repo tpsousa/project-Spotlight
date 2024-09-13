@@ -9,10 +9,10 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Technologies Used:** JavaScript, Nodejs,express js,ejs, css, etc.
 - **Key Highlights:** I learned the importance of adopting a design pattern. It makes the code much cleaner and more organized, resulting in easier maintenance and usability.
 
-### [Project Name 2](https://github.com/username/project-name-2)
-- **Description:** A summary of the project's goals, functionalities, and its impact.
-- **Technologies Used:** JavaScript, TypeScript, React, Node.js, etc.
-- **Key Highlights:** Insights into the development process, significant learnings, and outcomes.
+### [task management tool](https://github.com/username/project-name-2)
+- **Description:** It is a task management system that uses asynchronous functions, promises, and error handling
+- **Technologies Used:** JavaScript.
+- **Key Highlights:**
 
 ### [applications with datas-structs and algorithms](https://github.com/tpsousa/Algorithms-and-data-structures)
 - **Description:** using algorithms and data-structures to solve some problems.
