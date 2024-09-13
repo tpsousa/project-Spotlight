@@ -33,9 +33,9 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 
 For a broader view of my work, please visit the following repositories:
 
-- **[Web Development Projects](https://github.com/username/web-development-projects)**
+
 - **[Games and Tools](https://github.com/username/games-and-tools)**
-- **[TypeScript and Frameworks](https://github.com/username/typescript-and-frameworks)**
+
 
 ## How to Contribute
 
