@@ -10,9 +10,9 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Key Highlights:** I learned the importance of adopting a design pattern. It makes the code much cleaner and more organized, resulting in easier maintenance and usability.
 
 ### [task management tool](https://github.com/username/project-name-2)
-- **Description:** It is a task management system that uses asynchronous functions, promises, and error handling
+- **Description:** It is a task management system that uses asynchronous functions, promises,get,post,delete request
 - **Technologies Used:** JavaScript.
-- **Key Highlights:**
+- **Key Highlights:** practiced asynchronous functions in JavaScript, error handling, and making POST, GET, and DELETE requests to the server
 
 ### [applications with datas-structs and algorithms](https://github.com/tpsousa/Algorithms-and-data-structures)
 - **Description:** using algorithms and data-structures to solve some problems.
