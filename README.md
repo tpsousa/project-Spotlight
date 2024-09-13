@@ -19,6 +19,11 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Technologies Used:** JavaScript,python.
 - **Key Highlights:** After learning about data structures, programming made much more sense to me. I discovered how to sort, manipulate, and optimize code structures, and, most importantly, I learned how to solve problems in a more intelligent way.
 
+  ### [calculator](https://github.com/tpsousa/games-and-tools/calculate)
+- **Description:** a simple calculator with js,html,css.
+- **Technologies Used:** JavaScript,html,css
+- **Key Highlights:** I learned how to integrate HTML, CSS, and JavaScript together using the DOM, JavaScript's Document Object Model.
+
 ## Explore More
 
 For a broader view of my work, please visit the following repositories:
