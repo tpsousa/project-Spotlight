@@ -14,17 +14,17 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Technologies Used:** Javascript,Typescript
 - **Key Highlights:** "Additionally, I practiced consuming APIs with GET and POST requests, as well as creating interfaces and types with TypeScript to define how the API should be consumed.
 
-### [task management tool](https://github.com/username/project-name-2)
+### [TASK MANAGEMENT TOOL](https://github.com/username/project-name-2)
 - **Description:** It is a task management system that uses asynchronous functions, promises,get,post,delete request
 - **Technologies Used:** JavaScript,html,css
 - **Key Highlights:** practiced asynchronous functions in JavaScript, error handling, and making POST, GET, and DELETE requests to the server
 
-### [applications with datas-structs and algorithms](https://github.com/tpsousa/Algorithms-and-data-structures)
+### [APPLICATION WITH DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/tpsousa/Algorithms-and-data-structures)
 - **Description:** using algorithms and data-structures to solve some problems.
 - **Technologies Used:** JavaScript,python.
 - **Key Highlights:** After learning about data structures, programming made much more sense to me. I discovered how to sort, manipulate, and optimize code structures, and, most importantly, I learned how to solve problems in a more intelligent way.
 
-  ### [calculator](https://github.com/tpsousa/games-and-tools/calculate)
+  ### [CALCULATOR](https://github.com/tpsousa/games-and-tools/calculate)
 - **Description:** a simple calculator with js,html,css.
 - **Technologies Used:** JavaScript,html,css
 - **Key Highlights:** I learned how to integrate HTML, CSS, and JavaScript together using the DOM, JavaScript's Document Object Model.
