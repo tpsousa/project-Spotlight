@@ -9,7 +9,7 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Technologies Used:** JavaScript, Nodejs,express js,ejs, css, etc.
 - **Key Highlights:** I learned the importance of adopting a design pattern. It makes the code much cleaner and more organized, resulting in easier maintenance and usability.
 
-### [GITHUB-API](https://github.com/tpsousa/typescript--exercises/exercicio3)
+### [GITHUB-API](https://github.com/tpsousa/typescript--exercises/githubAPI)
 - **Description:** Consuming the GitHub API by making GET and POST requests, and creating interfaces with TypeScript.
 - **Technologies Used:** Javascript,Typescript
 - **Key Highlights:** "Additionally, I practiced consuming APIs with GET and POST requests, as well as creating interfaces and types with TypeScript to define how the API should be consumed.
