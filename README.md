@@ -14,7 +14,7 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Technologies Used:** Javascript,Typescript
 - **Key Highlights:** "Additionally, I practiced consuming APIs with GET and POST requests, as well as creating interfaces and types with TypeScript to define how the API should be consumed.
 
-### [TASK MANAGEMENT TOOL]([https://github.com/tpsousa/games-and-tools/sistemaDeGestaoDeTarefas](https://github.com/usuario/games-and-tools/tree/main/sistemaDeGestaoDeTarefas))
+### [TASK MANAGEMENT TOOL](https://github.com/usuario/games-and-tools/tree/main/sistemaDeGestaoDeTarefas))
 - **Description:** It is a task management system that uses asynchronous functions, promises,get,post,delete request
 - **Technologies Used:** JavaScript,html,css
 - **Key Highlights:** practiced asynchronous functions in JavaScript, error handling, and making POST, GET, and DELETE requests to the server
