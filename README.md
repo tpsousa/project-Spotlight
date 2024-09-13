@@ -15,9 +15,14 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Key Highlights:** "Additionally, I practiced consuming APIs with GET and POST requests, as well as creating interfaces and types with TypeScript to define how the API should be consumed.
 
 ### [TASK MANAGEMENT TOOL](https://github.com/tpsousa/games-and-tools/tree/main/sistemaDeGestaoDeTarefas)
-- **Description:** It is a task management system that uses asynchronous functions, promises,get,post,delete request
-- **Technologies Used:** JavaScript,html,css
-- **Key Highlights:** practiced asynchronous functions in JavaScript, error handling, and making POST, GET, and DELETE requests to the server
+- **Description:** It is a task management system that uses asynchronous functions, promises,get,post,delete request.
+- **Technologies Used:** JavaScript,html,css.
+- **Key Highlights:** practiced asynchronous functions in JavaScript, error handling, and making POST, GET, and DELETE requests to the server.
+
+### [PERSONAL FINANCE](https://github.com/tpsousa/games-and-tools/tree/main/personalFinance)
+- **Description:** It is a task management system that uses asynchronous functions, promises,get,post,delete request.
+- **Technologies Used:** JavaScript,html,css.
+- **Key Highlights:** practiced asynchronous functions in JavaScript, error handling, and making POST, GET, and DELETE requests to the server.
 
 ### [APPLICATION WITH DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/tpsousa/Algorithms-and-data-structures)
 - **Description:** using algorithms and data-structures to solve some problems.
@@ -28,6 +33,11 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Description:** a simple calculator with js,html,css.
 - **Technologies Used:** JavaScript,html,css
 - **Key Highlights:** I learned how to integrate HTML, CSS, and JavaScript together using the DOM, JavaScript's Document Object Model.
+
+### [tic-tac-toe](https://github.com/tpsousa/games-and-tools/tree/main/tic-tac-toe)
+- **Description:**: a simple game with js,html,css.
+- **Technologies Used:** Javascript,html,css.
+- **Key Highlights:** It was excellent for practicing DOM manipulation in JavaScript, as well as HTML and CSS.
 
 ## Explore More
 
