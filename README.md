@@ -34,7 +34,7 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Technologies Used:** JavaScript,html,css
 - **Key Highlights:** I learned how to integrate HTML, CSS, and JavaScript together using the DOM, JavaScript's Document Object Model.
 
-### [tic-tac-toe](https://github.com/tpsousa/games-and-tools/tree/main/tic-tac-toe)
+### [TIC-TAC-TOE](https://github.com/tpsousa/games-and-tools/tree/main/tic-tac-toe)
 - **Description:**: a simple game with js,html,css.
 - **Technologies Used:** Javascript,html,css.
 - **Key Highlights:** It was excellent for practicing DOM manipulation in JavaScript, as well as HTML and CSS.
