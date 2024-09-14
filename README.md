@@ -24,7 +24,7 @@ Welcome to the Project Spotlight repository! Here, I showcase some of my most ex
 - **Technologies Used:** JavaScript,html,css.
 - **Key Highlights:** practiced asynchronous functions in JavaScript, error handling, and making POST, GET, and DELETE requests to the server.
 
-### [APPLICATION WITH DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/tpsousa/Algorithms-and-data-structures)
+### [APPLICATIONS WITH DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/tpsousa/Algorithms-and-data-structures)
 - **Description:** using algorithms and data-structures to solve some problems.
 - **Technologies Used:** JavaScript,python.
 - **Key Highlights:** After learning about data structures, programming made much more sense to me. I discovered how to sort, manipulate, and optimize code structures, and, most importantly, I learned how to solve problems in a more intelligent way.
