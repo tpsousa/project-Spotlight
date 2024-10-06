@@ -25,7 +25,7 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 - **Destaques Principais:** Pratiquei funções assíncronas em JavaScript, tratamento de erros, e fiz requisições POST, GET e DELETE para o servidor.
 
 ### [O_Calouro](https://github.com/tpsousa/games-and-tools/tree/main/o_calouro)
-- **Descrição:** Um jogo robusto criado com python com a bibloteca pygames.
+- **Descrição:** desafio para avaliacao na Universidade federal do maranhao,Um jogo robusto criado com python com a bibloteca pygames.
 - **Tecnologias Utilizadas:** python,pygames.
 - **Destaques Principais:** Foi excelente para praticar a modularizao,importacacao e exportacao de funcoes,relacionamento de funcoes,progamcao funcional,logica de jogo,criacao de interfaces graficamente bonitas.
 
