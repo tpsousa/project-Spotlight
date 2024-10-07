@@ -27,7 +27,7 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 ### [O_Calouro](https://github.com/tpsousa/games-and-tools/tree/main/o_calouro)
 - **Descrição:** desafio para avaliacao na Universidade federal do maranhao,Um jogo robusto criado com python com a bibloteca pygames.
 - **Tecnologias Utilizadas:** python,pygames.
-- **Destaques Principais:** Foi excelente para praticar a modularizao,importacacao e exportacao de funcoes,relacionamento de funcoes,progamcao funcional,logica de jogo,criacao de interfaces graficamente bonitas.
+- **Destaques Principais:** Foi excelente para praticar a modularizao,importacacao e exportacao de funcoes,relacionamento de funcoes,progamacao funcional,logica de jogo,criacao de interfaces graficamente bonitas.
 
 
 ### [APLICAÇÕES COM ESTRUTURAS DE DADOS E ALGORITMOS](https://github.com/tpsousa/Algorithms-and-data-structures)
