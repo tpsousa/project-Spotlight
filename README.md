@@ -57,7 +57,7 @@ Se você tem algum feedback ou gostaria de contribuir para qualquer um desses pr
 
 ## Contato
 
-Para qualquer consulta ou para se conectar comigo, visite meu [Perfil no LinkedIn](linkedin.com/in/thiago-sousa-2227a12b8) ou envie um e-mail para [your.email@example.com](thpdev098@gmail.com).
+Para qualquer consulta ou para se conectar comigo, visite meu [Perfil no LinkedIn](linkedin.com/in/thiago-sousa-2227a12b8) ou envie um e-mail para [email](thpdev098@gmail.com).
 
 ---
 
