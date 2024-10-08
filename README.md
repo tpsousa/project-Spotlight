@@ -4,7 +4,7 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 
 ## Projetos em Destaque
 
-- ### [API-PLAYLIST](https://github.com/tpsousa/api-playlist)
+- ### [API-PLAYLIST](https://github.com/tpsousa/api_playlist)
 - **Descrição:** essa e uma aplicacao completa com autenticacao,autorização,arquitetura MVC,criar playlists,adicionar musicas novas,deletar,e autenticação JWT e middlewares para proteger rotas
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js
 - **Destaques Principais:** tokens de autorizacao,proteger rotas,autenticar usuarios.
@@ -14,7 +14,7 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js, EJS, CSS, etc.
 - **Destaques Principais:** Aprendi a importância de adotar um padrão de design. Isso torna o código muito mais limpo e organizado, resultando em uma manutenção e usabilidade mais fáceis.
 
-- ### [API-COM-ROTAS-PROTEGIDAS](https://github.com/tpsousa/api-rotasprotegidas)
+- ### [API-COM-ROTAS-PROTEGIDAS](https://github.com/tpsousa/api_rotas_protegidas)
 - **Descrição:** uma aplicacao de api com express com rotas protegidas por middlewares de autorização e autenticação.
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js, EJS
 - **Destaques Principais:** nao basta apenas criar um crud,e essencia definir as regras de autorização e autenticação para que possa acessar as paginas permitidas.
