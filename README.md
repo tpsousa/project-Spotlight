@@ -4,26 +4,25 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 
 ## Projetos em Destaque
 
-  ### [API-PLAYLIST](https://github.com/tpsousa/api_playlist)
-- **Descrição:** essa e uma aplicacao completa com autenticacao,autorização,arquitetura MVC,criar playlists,adicionar musicas novas,deletar,e autenticação JWT e middlewares para proteger rotas
-- **Tecnologias Utilizadas:** JavaScript, Node.js, Express,apis REstful,autenticação JWT,e postman para verificar a funcionalidade das rotas.
-- **Destaques Principais:** tokens de autorizacao,proteger rotas,autenticar usuarios.
+### [API-PLAYLIST](https://github.com/tpsousa/api_playlist)
+- **Descrição:** Essa é uma aplicação completa com autenticação, autorização, arquitetura MVC, criação de playlists, adição de novas músicas, exclusão de músicas, e autenticação JWT, além de middlewares para proteger as rotas.
+- **Tecnologias Utilizadas:** JavaScript, Node.js, Express, APIs RESTful, autenticação JWT, e Postman para verificar a funcionalidade das rotas.
+- **Destaques Principais:** Tokens de autorização, proteção de rotas, autenticação de usuários.
 
 ### [MVC-PROJECT](https://github.com/tpsousa/MVC-PROJECT)
-- **Descrição:** Um sistema de blog simples utilizando arquitetura MVC.
+- **Descrição:** Um sistema de blog simples utilizando a arquitetura MVC.
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js, EJS, CSS, etc.
-- **Destaques Principais:** Aprendi a importância de adotar um padrão de design. Isso torna o código muito mais limpo e organizado, resultando em uma manutenção e usabilidade mais fáceis.
+- **Destaques Principais:** Aprendi a importância de adotar um padrão de design. Isso torna o código mais limpo e organizado, resultando em uma manutenção e usabilidade mais fáceis.
 
-- ### [API-COM-ROTAS-PROTEGIDAS](https://github.com/tpsousa/api_rotas_protegidas)
-- **Descrição:** uma aplicacao de apis e restFul com express com rotas protegidas por middlewares de autorização e autenticação.
-- **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js, EJS
-- **Destaques Principais:** nao basta apenas criar um crud,e essencia definir as regras de autorização e autenticação para que possa acessar as paginas permitidas.
-
+### [API-COM-ROTAS-PROTEGIDAS](https://github.com/tpsousa/api_rotas_protegidas)
+- **Descrição:** Uma aplicação de APIs RESTful com Express, utilizando rotas protegidas por middlewares de autorização e autenticação.
+- **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js, EJS.
+- **Destaques Principais:** Não basta apenas criar um CRUD, é essencial definir as regras de autorização e autenticação para controlar o acesso às páginas permitidas.
 
 ### [GITHUB-API](https://github.com/tpsousa/typescript--exercises/tree/main/githubAPI)
-- **Descrição:** Consumindo a API do GitHub fazendo requisições GET e POST, e criando interfaces com TypeScript.
+- **Descrição:** Consumindo a API do GitHub, fazendo requisições GET e POST, e criando interfaces com TypeScript.
 - **Tecnologias Utilizadas:** JavaScript, TypeScript.
-- **Destaques Principais:** Pratiquei consumir APIs com requisições GET e POST, além de criar interfaces e tipos com TypeScript para definir como a API deve ser consumida.
+- **Destaques Principais:** Pratiquei o consumo de APIs com requisições GET e POST, além de criar interfaces e tipos com TypeScript para definir como a API deve ser consumida.
 
 ### [FERRAMENTA DE GESTÃO DE TAREFAS](https://github.com/tpsousa/games-and-tools/tree/main/sistemaDeGestaoDeTarefas)
 - **Descrição:** Um sistema de gestão de tarefas que utiliza funções assíncronas, promessas, e requisições GET, POST e DELETE.
@@ -36,10 +35,9 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 - **Destaques Principais:** Pratiquei funções assíncronas em JavaScript, tratamento de erros, e fiz requisições POST, GET e DELETE para o servidor.
 
 ### [O_Calouro](https://github.com/tpsousa/games-and-tools/tree/main/o_calouro)
-- **Descrição:** desafio para avaliacao na Universidade federal do maranhao,Um jogo robusto criado com python com a bibloteca pygames.
-- **Tecnologias Utilizadas:** python,pygames.
-- **Destaques Principais:** Foi excelente para praticar a modularizao,importacacao e exportacao de funcoes,relacionamento de funcoes,progamacao funcional,logica de jogo,criacao de interfaces graficamente bonitas.
-
+- **Descrição:** Desafio para avaliação na Universidade Federal do Maranhão. Um jogo robusto criado com Python e a biblioteca Pygame.
+- **Tecnologias Utilizadas:** Python, Pygame.
+- **Destaques Principais:** Foi excelente para praticar modularização, importação e exportação de funções, programação funcional, lógica de jogo, e criação de interfaces graficamente bonitas.
 
 ### [APLICAÇÕES COM ESTRUTURAS DE DADOS E ALGORITMOS](https://github.com/tpsousa/Algorithms-and-data-structures)
 - **Descrição:** Utilizando algoritmos e estruturas de dados para resolver alguns problemas.
@@ -60,7 +58,7 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 
 Para uma visão mais ampla do meu trabalho, visite os seguintes repositórios:
 
-- **[Jogos e Ferramentas](https://github.com/username/games-and-tools)**
+- **[Jogos e Ferramentas](https://github.com/tpsousa/games-and-tools)**
 
 ## Como Contribuir
 
@@ -68,7 +66,7 @@ Se você tem algum feedback ou gostaria de contribuir para qualquer um desses pr
 
 ## Contato
 
-Para qualquer consulta ou para se conectar comigo, visite meu [Perfil no LinkedIn](linkedin.com/in/thiago-sousa-2227a12b8) ou envie um e-mail para [email](thpdev098@gmail.com).
+Para qualquer consulta ou para se conectar comigo, visite meu [Perfil no LinkedIn](https://linkedin.com/in/thiago-sousa-2227a12b8) ou envie um e-mail para [thpdev098@gmail.com](mailto:thpdev098@gmail.com).
 
 ---
 
