@@ -14,7 +14,7 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js, EJS, CSS, etc.
 - **Destaques Principais:** Aprendi a importância de adotar um padrão de design. Isso torna o código muito mais limpo e organizado, resultando em uma manutenção e usabilidade mais fáceis.
 
-- ### [API-COM-ROTAS-PROTEGIDAS](https://github.com/tpsousa/api-rota-protegida)
+- ### [API-COM-ROTAS-PROTEGIDAS](https://github.com/tpsousa/api-rotasprotegidas)
 - **Descrição:** uma aplicacao de api com express com rotas protegidas por middlewares de autorização e autenticação.
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js, EJS
 - **Destaques Principais:** nao basta apenas criar um crud,e essencia definir as regras de autorização e autenticação para que possa acessar as paginas permitidas.
