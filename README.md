@@ -9,7 +9,7 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express, APIs RESTful, autenticação JWT, e Postman para verificar a funcionalidade das rotas.
 - **Destaques Principais:** Tokens de autorização, proteção de rotas, autenticação de usuários.
 
-- ### [TASK-MANAGER](https://github.com/tpsousa/task_manager)
+ ### [TASK-MANAGER](https://github.com/tpsousa/task_manager)
 - **Descrição:** aplicação CRUD completa,criar taferas,deletar tarefas,pegar tarefa pelo id,e atualizar tarefas do banco de dados.
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express, APIs RESTful,e MySQl.
 - **Destaques Principais:** requisições get,post,delete e update no banco de dados.
