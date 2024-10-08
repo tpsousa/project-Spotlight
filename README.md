@@ -4,7 +4,7 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 
 ## Projetos em Destaque
 
-- ### [API-PLAYLIST](https://github.com/tpsousa/api_playlist)
+  ### [API-PLAYLIST](https://github.com/tpsousa/api_playlist)
 - **Descrição:** essa e uma aplicacao completa com autenticacao,autorização,arquitetura MVC,criar playlists,adicionar musicas novas,deletar,e autenticação JWT e middlewares para proteger rotas
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express,apis REstful,autenticação JWT,e postman para verificar a funcionalidade das rotas.
 - **Destaques Principais:** tokens de autorizacao,proteger rotas,autenticar usuarios.
