@@ -7,7 +7,7 @@ Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos me
 - ### [API-PLAYLIST](https://github.com/tpsousa/api-playlist)
 - **Descrição:** essa e uma aplicacao completa com autenticacao,autorização,arquitetura MVC,criar playlists,adicionar musicas novas,deletar,e autenticação JWT e middlewares para proteger rotas
 - **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js
-- **Destaques Principais:** nao basta apenas criar um crud,e essencia definir as regras de autorização e autenticação para que possa acessar as paginas permitidas.
+- **Destaques Principais:** tokens de autorizacao,proteger rotas,autenticar usuarios.
 
 ### [MVC-PROJECT](https://github.com/tpsousa/MVC-PROJECT)
 - **Descrição:** Um sistema de blog simples utilizando arquitetura MVC.
