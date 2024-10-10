@@ -1,78 +1,78 @@
-# Projeto em Destaque✨
+# Featured Project✨
 
-Bem-vindo ao repositório **Projeto em Destaque**! Aqui, apresento alguns dos meus projetos mais emocionantes e significativos que destacam minhas habilidades e expertise. Cada projeto é um reflexo da minha paixão por tecnologia e resolução de problemas.
+Welcome to the **Featured Project** repository! Here, I showcase some of my most exciting and significant projects that highlight my skills and expertise. Each project reflects my passion for technology and problem-solving.
 
-## Projetos em Destaque
+## Featured Projects
 
 ### [![API-PLAYLIST](https://img.shields.io/badge/API--PLAYLIST-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/api_playlist) API-PLAYLIST
-- **Descrição:** Essa é uma aplicação completa com autenticação, autorização, arquitetura MVC, criação de playlists, adição de novas músicas, exclusão de músicas, e autenticação JWT, além de middlewares para proteger as rotas.
-- **Tecnologias Utilizadas:** JavaScript, Node.js, Express, APIs RESTful, autenticação JWT, e Postman para verificar a funcionalidade das rotas.
-- **Destaques Principais:** Tokens de autorização, proteção de rotas, autenticação de usuários.
+- **Description:** This is a complete application with authentication, authorization, MVC architecture, creating playlists, adding new songs, deleting songs, and JWT authentication, as well as middleware to protect the routes.
+- **Technologies Used:** JavaScript, Node.js, Express, RESTful APIs, JWT authentication, and Postman to verify route functionality.
+- **Key Highlights:** Authorization tokens, route protection, user authentication.
 
 ### [![TASK-MANAGER](https://img.shields.io/badge/TASK--MANAGER-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/task_manager) TASK-MANAGER
-- **Descrição:** Aplicação CRUD completa, criar tarefas, deletar tarefas, pegar tarefa pelo id, e atualizar tarefas do banco de dados.
-- **Tecnologias Utilizadas:** JavaScript, Node.js, Express, APIs RESTful, e MySQL.
-- **Destaques Principais:** Requisições GET, POST, DELETE e UPDATE no banco de dados.
+- **Description:** Complete CRUD application for creating tasks, deleting tasks, retrieving tasks by ID, and updating tasks in the database.
+- **Technologies Used:** JavaScript, Node.js, Express, RESTful APIs, and MySQL.
+- **Key Highlights:** GET, POST, DELETE, and UPDATE requests in the database.
 
 ### [![MVC-PROJECT](https://img.shields.io/badge/MVC--PROJECT-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/MVC-PROJECT) MVC-PROJECT
-- **Descrição:** Um sistema de blog simples utilizando a arquitetura MVC.
-- **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js, EJS, CSS, etc.
-- **Destaques Principais:** Aprendi a importância de adotar um padrão de design. Isso torna o código mais limpo e organizado, resultando em uma manutenção e usabilidade mais fáceis.
+- **Description:** A simple blog system using MVC architecture.
+- **Technologies Used:** JavaScript, Node.js, Express.js, EJS, CSS, etc.
+- **Key Highlights:** Learned the importance of adopting a design pattern, resulting in cleaner, more organized code for easier maintenance and usability.
 
-### [![API-COM-ROTAS-PROTEGIDAS](https://img.shields.io/badge/API--COM--ROTAS--PROTEGIDAS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/api_rotas_protegidas) API-COM-ROTAS-PROTEGIDAS
-- **Descrição:** Uma aplicação de APIs RESTful com Express, utilizando rotas protegidas por middlewares de autorização e autenticação.
-- **Tecnologias Utilizadas:** JavaScript, Node.js, Express.js, EJS.
-- **Destaques Principais:** Não basta apenas criar um CRUD, é essencial definir as regras de autorização e autenticação para controlar o acesso às páginas permitidas.
+### [![API-WITH-PROTECTED-ROUTES](https://img.shields.io/badge/API--WITH--PROTECTED--ROUTES-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/api_rotas_protegidas) API-WITH-PROTECTED-ROUTES
+- **Description:** A RESTful API application with Express, using protected routes through authorization and authentication middleware.
+- **Technologies Used:** JavaScript, Node.js, Express.js, EJS.
+- **Key Highlights:** It's not just about creating a CRUD; it's essential to define authorization and authentication rules to control access to permitted pages.
 
 ### [![GITHUB-API](https://img.shields.io/badge/GITHUB--API-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/typescript--exercises/tree/main/githubAPI) GITHUB-API
-- **Descrição:** Consumindo a API do GitHub, fazendo requisições GET e POST, e criando interfaces com TypeScript.
-- **Tecnologias Utilizadas:** JavaScript, TypeScript.
-- **Destaques Principais:** Pratiquei o consumo de APIs com requisições GET e POST, além de criar interfaces e tipos com TypeScript para definir como a API deve ser consumida.
+- **Description:** Consuming the GitHub API by making GET and POST requests and creating interfaces with TypeScript.
+- **Technologies Used:** JavaScript, TypeScript.
+- **Key Highlights:** Practiced consuming APIs with GET and POST requests, in addition to creating interfaces and types with TypeScript to define how the API should be consumed.
 
-### [![FERRAMENTA DE GESTÃO DE TAREFAS](https://img.shields.io/badge/FERRAMENTA--DE--GESTÃO--DE--TAREFAS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/games-and-tools/tree/main/sistemaDeGestaoDeTarefas) FERRAMENTA DE GESTÃO DE TAREFAS
-- **Descrição:** Um sistema de gestão de tarefas que utiliza funções assíncronas, promessas, e requisições GET, POST e DELETE.
-- **Tecnologias Utilizadas:** JavaScript, HTML, CSS.
-- **Destaques Principais:** Pratiquei funções assíncronas em JavaScript, tratamento de erros, e fiz requisições POST, GET e DELETE para o servidor.
+### [![TASK-MANAGEMENT-TOOL](https://img.shields.io/badge/TASK--MANAGEMENT--TOOL-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/games-and-tools/tree/main/sistemaDeGestaoDeTarefas) TASK-MANAGEMENT-TOOL
+- **Description:** A task management system that uses asynchronous functions, promises, and GET, POST, and DELETE requests.
+- **Technologies Used:** JavaScript, HTML, CSS.
+- **Key Highlights:** Practiced asynchronous functions in JavaScript, error handling, and made POST, GET, and DELETE requests to the server.
 
-### [![FINANÇAS PESSOAIS](https://img.shields.io/badge/FINANÇAS--PESSOAIS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/games-and-tools/tree/main/personalFinance) FINANÇAS PESSOAIS
-- **Descrição:** Um sistema de gestão de finanças pessoais que utiliza funções assíncronas, promessas, e requisições GET, POST e DELETE.
-- **Tecnologias Utilizadas:** JavaScript, HTML, CSS.
-- **Destaques Principais:** Pratiquei funções assíncronas em JavaScript, tratamento de erros, e fiz requisições POST, GET e DELETE para o servidor.
+### [![PERSONAL-FINANCE](https://img.shields.io/badge/PERSONAL--FINANCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/games-and-tools/tree/main/personalFinance) PERSONAL FINANCE
+- **Description:** A personal finance management system that uses asynchronous functions, promises, and GET, POST, and DELETE requests.
+- **Technologies Used:** JavaScript, HTML, CSS.
+- **Key Highlights:** Practiced asynchronous functions in JavaScript, error handling, and made POST, GET, and DELETE requests to the server.
 
 ### [![O_Calouro](https://img.shields.io/badge/O--CALOURO-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/games-and-tools/tree/main/o_calouro) O_Calouro
-- **Descrição:** Desafio para avaliação na Universidade Federal do Maranhão. Um jogo robusto criado com Python e a biblioteca Pygame.
-- **Tecnologias Utilizadas:** Python, Pygame.
-- **Destaques Principais:** Foi excelente para praticar modularização, importação e exportação de funções, programação funcional, lógica de jogo, e criação de interfaces graficamente bonitas.
+- **Description:** Challenge for evaluation at the Federal University of Maranhão. A robust game created with Python and the Pygame library.
+- **Technologies Used:** Python, Pygame.
+- **Key Highlights:** Excellent for practicing modularization, importing and exporting functions, functional programming, game logic, and creating visually appealing graphical interfaces.
 
-### [![APLICAÇÕES COM ESTRUTURAS DE DADOS E ALGORITMOS](https://img.shields.io/badge/APLICAÇÕES--COM--ESTRUTURAS--DE--DADOS--E--ALGORITMOS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/Algorithms-and-data-structures) APLICAÇÕES COM ESTRUTURAS DE DADOS E ALGORITMOS
-- **Descrição:** Utilizando algoritmos e estruturas de dados para resolver alguns problemas.
-- **Tecnologias Utilizadas:** JavaScript, Python.
-- **Destaques Principais:** Após aprender sobre estruturas de dados, a programação fez muito mais sentido para mim. Descobri como ordenar, manipular e otimizar estruturas de código e, mais importante, aprendi a resolver problemas de forma mais inteligente.
+### [![APPLICATIONS-WITH-DATA-STRUCTURES-AND-ALGORITHMS](https://img.shields.io/badge/APPLICATIONS--WITH--DATA--STRUCTURES--AND--ALGORITHMS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/Algorithms-and-data-structures) APPLICATIONS WITH DATA STRUCTURES AND ALGORITHMS
+- **Description:** Utilizing algorithms and data structures to solve various problems.
+- **Technologies Used:** JavaScript, Python.
+- **Key Highlights:** After learning about data structures, programming made much more sense to me. I discovered how to sort, manipulate, and optimize code structures and, more importantly, learned how to solve problems more intelligently.
 
-### [![CALCULADORA](https://img.shields.io/badge/CALCULADORA-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/games-and-tools/calculate) CALCULADORA
-- **Descrição:** Uma calculadora simples com JS, HTML e CSS.
-- **Tecnologias Utilizadas:** JavaScript, HTML, CSS.
-- **Destaques Principais:** Aprendi como integrar HTML, CSS e JavaScript usando o DOM, o Modelo de Objeto de Documento do JavaScript.
+### [![CALCULATOR](https://img.shields.io/badge/CALCULATOR-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/games-and-tools/calculate) CALCULATOR
+- **Description:** A simple calculator built with JS, HTML, and CSS.
+- **Technologies Used:** JavaScript, HTML, CSS.
+- **Key Highlights:** Learned how to integrate HTML, CSS, and JavaScript using the DOM, the Document Object Model of JavaScript.
 
-### [![JOGO DA VELHA](https://img.shields.io/badge/JOGO--DA--VELHA-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/games-and-tools/tree/main/tic-tac-toe) JOGO DA VELHA
-- **Descrição:** Um jogo simples com JS, HTML e CSS.
-- **Tecnologias Utilizadas:** JavaScript, HTML, CSS.
-- **Destaques Principais:** Foi excelente para praticar a manipulação do DOM em JavaScript, além de HTML e CSS.
+### [![TIC-TAC-TOE](https://img.shields.io/badge/TIC--TAC--TOE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/games-and-tools/tree/main/tic-tac-toe) TIC-TAC-TOE
+- **Description:** A simple game built with JS, HTML, and CSS.
+- **Technologies Used:** JavaScript, HTML, CSS.
+- **Key Highlights:** Excellent for practicing DOM manipulation in JavaScript, as well as HTML and CSS.
 
-## Explore Mais
+## Explore More
 
-Para uma visão mais ampla do meu trabalho, visite os seguintes repositórios:
+For a broader view of my work, visit the following repositories:
 
-- **[Jogos e Ferramentas](https://github.com/tpsousa/games-and-tools)**
+- **[Games and Tools](https://github.com/tpsousa/games-and-tools)**
 
-## Como Contribuir
+## How to Contribute
 
-Se você tem algum feedback ou gostaria de contribuir para qualquer um desses projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request!
+If you have any feedback or would like to contribute to any of these projects, feel free to open an issue or submit a pull request!
 
-## Contato
+## Contact
 
-Para qualquer consulta ou para se conectar comigo, visite meu [Perfil no LinkedIn](https://linkedin.com/in/thiago-sousa-2227a12b8) ou envie um e-mail para [thpdev098@gmail.com](mailto:thpdev098@gmail.com).
+For any inquiries or to connect with me, visit my [LinkedIn Profile](https://linkedin.com/in/thiago-sousa-2227a12b8) or email me at [thpdev098@gmail.com](mailto:thpdev098@gmail.com).
 
 ---
 
-Obrigado por explorar o repositório Projeto em Destaque!
+Thank you for exploring the Featured Project repository!
