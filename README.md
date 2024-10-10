@@ -1,8 +1,8 @@
-# Featured Project✨
+# Project Spotlight✨
 
 Welcome to the **Featured Project** repository! Here, I showcase some of my most exciting and significant projects that highlight my skills and expertise. Each project reflects my passion for technology and problem-solving.
 
-## Featured Projects
+## Projects Spotlight
 
 ### [![API-PLAYLIST](https://img.shields.io/badge/API--PLAYLIST-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/api_playlist) API-PLAYLIST
 - **Description:** This is a complete application with authentication, authorization, MVC architecture, creating playlists, adding new songs, deleting songs, and JWT authentication, as well as middleware to protect the routes.
