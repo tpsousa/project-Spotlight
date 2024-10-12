@@ -4,7 +4,7 @@ Bem-vindo ao repositório de **Projetos em Destaque**! Eu sou o **Thiago**, um d
 
 Cada projeto demonstra não apenas minhas habilidades técnicas, mas também minha dedicação em criar soluções impactantes. Dê uma olhada e fique à vontade para explorar!
 
-Para acessar o projeto, clique no ícone preto com o nome da aplicação, que inclui o logo do GitHub.
+Para visualizar o repositório de cada projeto, clique no ícone preto ao lado do nome da aplicação, que contém o logo do GitHub 🔗
 
 ## Projetos em Destaque
 
