@@ -78,4 +78,4 @@ Para visualizar o repositório de cada projeto, clique no ícone preto ao lado d
 
 Para uma visão mais ampla do meu trabalho, visite os seguintes repositórios:
 
-- **[Jogos e Ferramentas](https://github.com/tpsousa/repositories
+- **[others projects](https://github.com/tpsousa/repositories)
