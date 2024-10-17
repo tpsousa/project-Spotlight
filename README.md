@@ -78,4 +78,4 @@ Para visualizar o repositório de cada projeto, clique no ícone preto ao lado d
 
 Para uma visão mais ampla do meu trabalho, visite os seguintes repositórios:
 
-- **[others projects]([https://github.com/tpsousa/repositories](https://github.com/tpsousa?tab=repositories))
+- ** [others projects](https://github.com/tpsousa?tab=repositories)
